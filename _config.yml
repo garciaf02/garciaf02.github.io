@@ -1,21 +1,2 @@
-title: Francisco Garcia JR
-description: Personal Portfolio Website
-author: Francisco Garcia JR
 
-# Choose a GitHub Pages supported theme
-theme: minima
-
-# Optional settings
-show_downloads: false
-google_analytics: 
-
-# Social links
-github_username: garciaf02
-linkedin_username: francisco-garcia-2021a222b
-
-# Markdown processor
-markdown: kramdown
-
-# Exclude files from build
-exclude:
-  - README.md
+theme: jekyll-theme-minimal
